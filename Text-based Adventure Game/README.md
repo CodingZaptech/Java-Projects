@@ -15,13 +15,8 @@ A simple console-based adventure game where players can explore different locati
 
 ### How to Play:
 
-    **Compile the code:**
-
-            javac Text-based\ Adventure\ Game.java
-
-      **Run it:**
-
-            java Text-based\ Adventure\ Game
+    Compile the code: javac Adventure-Game.java
+    Run it: java Adventure-Game
 
 ### Requirements:
 
