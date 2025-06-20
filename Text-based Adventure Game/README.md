@@ -1,9 +1,9 @@
-##Text-based Adventure Game
+## Text-based Adventure Game
 
-###Description:
+### Description:
 A simple console-based adventure game where players can explore different locations by entering commands. It’s a fun and interactive way to understand object-oriented programming, conditionals, and user input in Java.
 
-###Key Features:
+### Key Features:
 
     1. Multiple rooms and navigation
 
@@ -13,7 +13,7 @@ A simple console-based adventure game where players can explore different locati
 
     4. Easy to customize and expand
 
-###How to Play:
+### How to Play:
 
     **Compile the code:**
 
@@ -23,11 +23,11 @@ A simple console-based adventure game where players can explore different locati
 
             java Text-based\ Adventure\ Game
 
-###Requirements:
+### Requirements:
 
     1. Java 8 or higher
 
     2. Console/terminal to run the game
 
-###Game Tip:
+### Game Tip:
 Try exploring different adventures and see what happens—you never know what you might find!
