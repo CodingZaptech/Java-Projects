@@ -12,3 +12,7 @@ A JavaFX-based calculator in Java that supports basic arithmetic operations (add
 ## 3. Student Gradebook With File I/O:
 
 A command-line Java application to manage student records using file input/output. It allows adding student names, IDs, and grades, then writes them to a text file using custom formatting. Saved records can also be read and displayed from the file.
+
+## 4. Student Grading System:
+
+A console-based Java application where users can input student names and marks. The program calculates the grade (A to F) based on the score using standard thresholds. It stores student data in an array and displays each student's name, score, and assigned grade.
