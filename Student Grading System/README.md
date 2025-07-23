@@ -7,7 +7,7 @@ This program allows you to input student names and their marks through a console
 1. Accepts input for multiple students  
 2. Calculates grades based on marks  
 3. Displays name, score, and corresponding grade  
-4. Uses object-oriented design with a `Student` class  
+4. Uses object-oriented design with a Student class  
 5. Clean and interactive console-based interface  
 
 ### How to Run:
