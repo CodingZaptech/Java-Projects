@@ -16,3 +16,7 @@ A command-line Java application to manage student records using file input/outpu
 ## 4. Student Grading System:
 
 A console-based Java application where users can input student names and marks. The program calculates the grade (A to F) based on the score using standard thresholds. It stores student data in an array and displays each student's name, score, and assigned grade.
+
+## 5. Client-Server Communication:
+
+A basic socket programming example in Java demonstrating client-server communication over localhost using port 8080. The client sends a greeting message, and the server responds after reading it, showcasing simple input/output streams and network interaction.
